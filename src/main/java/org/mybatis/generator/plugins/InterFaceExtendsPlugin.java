@@ -6,7 +6,6 @@ package org.mybatis.generator.plugins;
 import org.codehaus.plexus.util.StringUtils;
 import org.mybatis.generator.api.*;
 import org.mybatis.generator.api.dom.java.*;
-import org.mybatis.generator.config.JavaClientGeneratorConfiguration;
 
 import java.io.File;
 import java.util.ArrayList;
